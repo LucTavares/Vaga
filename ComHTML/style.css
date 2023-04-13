@@ -1,0 +1,17 @@
+label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input[type="number"] {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin-top: 10px;
+  }
+  
